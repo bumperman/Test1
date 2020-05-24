@@ -1,2 +1,0 @@
-# maroon
-a sample code
